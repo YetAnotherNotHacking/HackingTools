@@ -7,7 +7,7 @@ Make sure you read the comments at the top of the scripts to make sure that you 
 
 # Licensing
 This collection is licensed under the GNU open source software license, but it is important that you are giving credit and requesting
-permission from yetanotherdingu@gmail.com or discord: nothacking if you use ANY of this in one of your own projects or you are distributing
+permission from yetanotherdingus@gmail.com or discord: nothacking if you use ANY of this in one of your own projects or you are distributing
 it.
 
 # WARNING
