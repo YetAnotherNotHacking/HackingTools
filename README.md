@@ -1,6 +1,10 @@
 # Malware
 Library that me and my friends are creating of stupid malware that really has no real use.
 
+# Sploit-tables
+An all in one hacking tool designed to make hacking and penetration testing just a little bit easier. Currently in development.
+More information soon.
+
 # Notice
 Some of these scripts will need configuration, make sure you configure them properly before assuming that they are patched or not working
 Make sure you read the comments at the top of the scripts to make sure that you understand how they work (if applicable.)
